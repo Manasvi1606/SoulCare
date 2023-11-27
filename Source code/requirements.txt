@@ -1,0 +1,15 @@
+streamlit
+numpy
+streamlit_option_menu
+tensorflow
+keras
+av
+pandas
+matplotlib
+opencv-python
+streamlit_webrtc
+streamlit_extras
+contractions
+keras_preprocessing
+openai
+firebase_admin
